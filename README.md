@@ -1,4 +1,4 @@
-Hello to my fellow github geeks, it is Hanna (Anya) here 🙌
+## Hello to my fellow CV geeks, it is Hanna (Anya) here 🙌
 
 📈 Data Science Math Queen, 3 years in applying Machine Learning to real-world problems
 
@@ -28,3 +28,6 @@ Hello to my fellow github geeks, it is Hanna (Anya) here 🙌
 - 🇺🇦 won regional Ukrainian math contests 
 - 📚💕 got 1.0 GPA (ultimate best) for both Bachelor & Master thesis note 
 
+📲 Contact:
+- 📩 [Linkedin](https://www.linkedin.com/in/hanna-k-730321177/)
+- 📧 [email](hannamykolayivnakondratyuk@gmail.com)
